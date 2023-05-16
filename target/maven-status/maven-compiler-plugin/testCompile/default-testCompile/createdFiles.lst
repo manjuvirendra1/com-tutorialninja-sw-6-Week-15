@@ -1,0 +1,9 @@
+com\tutorialninja\Hooks.class
+com\tutorialninja\steps\LaptopAndNotebookPageSteps.class
+com\tutorialninja\steps\TopMenuSteps.class
+com\tutorialninja\runner\TestRunnerRegression.class
+com\tutorialninja\steps\DesktopPageSteps.class
+com\tutorialninja\runner\TestRunnerSanity.class
+com\tutorialninja\steps\RegisterPageSteps.class
+com\tutorialninja\steps\LoginPageSteps.class
+com\tutorialninja\runner\TestRunnerSmoke.class

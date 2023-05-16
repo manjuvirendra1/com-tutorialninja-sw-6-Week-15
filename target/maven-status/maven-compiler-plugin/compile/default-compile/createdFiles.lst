@@ -1,0 +1,14 @@
+com\tutorialninja\browserfactory\ManageBrowser.class
+com\tutorialninja\pages\LoginPage.class
+com\tutorialninja\pages\RegisterPage.class
+com\tutorialninja\pages\LaptopAndNotebookPage.class
+com\tutorialninja\pages\CheckoutPage.class
+com\tutorialninja\pages\ShoppingCartPage.class
+com\tutorialninja\pages\ProductPage.class
+com\tutorialninja\utilities\Utility.class
+com\tutorialninja\pages\ComponentsPage.class
+com\tutorialninja\pages\DesktopPage.class
+com\tutorialninja\propertyreader\PropertyReader.class
+com\tutorialninja\pages\HomePage.class
+com\tutorialninja\utilities\Utility$1.class
+com\tutorialninja\pages\LogoutPage.class
